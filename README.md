@@ -65,7 +65,7 @@ pipeline-logistica/
 
 #### 1. Clonar o Repositório
 ```text
-git clone [https://github.com/SEU_USUARIO/pipeline-logistica.git](https://github.com/isa-amorim/pipeline-logistica.git)
+git clone https://github.com/isa-amorim/pipeline-logistica.git
 cd pipeline-logistica
 ```
 #### 2. Instalar Dependências de Desenvolvimento
