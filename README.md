@@ -102,4 +102,5 @@ python -m pytest -v
 ```
 
 ## 📑 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Este projeto está sob a licença **MIT**. Para mais detalhes sobre as permissões e condições de uso, acesse o arquivo [LICENSE](https://github.com/isa-amorim/pipeline-logistica/blob/main/LICENSE).
