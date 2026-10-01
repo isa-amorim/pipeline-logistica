@@ -1,0 +1,4 @@
+line_number,field_name,error_message,raw_record
+4,document,Documento com tamanho inválido (0 dígitos). Esperado 11 ou 14.,"{'delivery_id': 'DEL-1003', 'document': 'DOC_INVALIDO', 'zip_code': '03003000', 'freight_value': '80.20', 'status': 'PENDING'}"
+5,zip_code,CEP inválido (CEP_RUIM). Esperado exatamente 8 dígitos numéricos.,"{'delivery_id': 'DEL-1004', 'document': '45678901234', 'zip_code': 'CEP_RUIM', 'freight_value': '-15.00', 'status': 'PENDING'}"
+6,freight_value,Valor de frete não-numérico recebido: 'TEXTO_INVALIDO'.,"{'delivery_id': 'DEL-1005', 'document': '56789012345', 'zip_code': '05005000', 'freight_value': 'TEXTO_INVALIDO', 'status': 'CANCELLED'}"
